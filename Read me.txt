@@ -1,0 +1,26 @@
+Read_ME
+
+form has beeen create as per requirment
+
+JWT token will return if a user is logging in 
+
+user details are saved in database table name is vitauser, model class name is UserModel
+
+Note : /registrattion is the path to get the form
+
+DB Used : 
+
+Mysql database
+
+Usermodel table Name : 
+
+vitauser
+
+GitHub link :
+
+
+
+
+
+
+
